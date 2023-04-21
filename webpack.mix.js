@@ -1,0 +1,1 @@
+mix.js('resources/js/calendar.js', 'public/js/fullcalendar');
